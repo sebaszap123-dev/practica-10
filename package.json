@@ -1,0 +1,19 @@
+{
+  "name": "practica-10",
+  "version": "1.0.0",
+  "description": "uso de express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaszap123-dev/practica-10-express.git"
+  },
+  "author": "sebastian frausto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebaszap123-dev/practica-10-express/issues"
+  },
+  "homepage": "https://github.com/sebaszap123-dev/practica-10-express#readme"
+}
